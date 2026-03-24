@@ -1,0 +1,13 @@
+name,energy (kcal/kJ),protein (g),carbohydrates (g),fiber (g),vitamin C (mg),calcium (mg)
+Apple,52,0.3,14,2.4,4.6,6
+Banana,89,1.1,23,2.6,8.7,5
+Orange,47,0.9,12,2.4,53,40
+Mango,60,0.8,15,1.6,36.4,11
+Grapes,62,0.6,16,0.9,3.2,10
+Pineapple,50,0.5,13,1.4,47.8,13
+Watermelon,30,0.6,8,0.4,8.1,7
+Pomegranate,83,1.7,19,4,10.2,10
+Kiwi,61,1.1,15,3,92.7,34
+Lemon,29,1.1,9,2.8,53,26
+Pear,57,0.4,15,3.1,4.3,9
+Papaya,43,0.5,11,1.7,60.9,20
